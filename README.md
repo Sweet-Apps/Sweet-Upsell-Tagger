@@ -7,3 +7,5 @@ Tag Upsells with Shopify Flow
 - Navigate to Shopify Store Admin > Click on Apps > Flow
 - From Flow select Import and import the "Sweet Upsell Flow Tag.flow" file from this repository
 - Activate the newly create Sweet Upsell Tagger Flow
+
+![Active Flow](./Active Flow.png)
