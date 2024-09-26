@@ -8,4 +8,4 @@ Tag Upsells with Shopify Flow
 - From Flow select Import and import the "Sweet Upsell Flow Tag.flow" file from this repository
 - Activate the newly create Sweet Upsell Tagger Flow
 
-![Active Flow](./Active Flow.png)
+![Active Flow]("./Active Flow.png")
